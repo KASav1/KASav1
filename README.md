@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @KASAV1
-- 👀 I’m a python,nodejs,html and css developper
+- 👀 I’m a python,javascript,html and css developper
 - 🌱 I am learning python more intensely
 - 📫 You can reache me on discord : KASav#0069
